@@ -1,4 +1,5 @@
 import React from 'react';
+import MapGrid from './MapGrid';
 import './App.css';
 
 function App() {
@@ -8,9 +9,7 @@ function App() {
         City of Elseways Map
       </header>
       <main>
-        <div className="map">
-
-        </div>
+        <MapGrid rows={18} cols={25} tileSize={16} />
       </main>
     </div>
   );
