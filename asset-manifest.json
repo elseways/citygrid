@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/citygrid/static/css/main.11554ca1.chunk.css",
-    "main.js": "/citygrid/static/js/main.bc938cc3.chunk.js",
-    "main.js.map": "/citygrid/static/js/main.bc938cc3.chunk.js.map",
+    "main.js": "/citygrid/static/js/main.e928ffd9.chunk.js",
+    "main.js.map": "/citygrid/static/js/main.e928ffd9.chunk.js.map",
     "runtime-main.js": "/citygrid/static/js/runtime-main.d32170b6.js",
     "runtime-main.js.map": "/citygrid/static/js/runtime-main.d32170b6.js.map",
     "static/js/2.c88b437d.chunk.js": "/citygrid/static/js/2.c88b437d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d32170b6.js",
     "static/js/2.c88b437d.chunk.js",
     "static/css/main.11554ca1.chunk.css",
-    "static/js/main.bc938cc3.chunk.js"
+    "static/js/main.e928ffd9.chunk.js"
   ]
 }
